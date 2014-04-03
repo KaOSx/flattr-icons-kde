@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
+   width="48"
+   height="48"
    id="svg3615"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    version="1.0"
-   sodipodi:docname="QuasselIrc.svg"
+   sodipodi:docname="quassel.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="/home/pinheiro/pics/oxygen/scalable/apps/quassel.png"
    inkscape:export-xdpi="360"
@@ -41,7 +41,24 @@
      inkscape:window-height="814"
      inkscape:window-x="1037"
      inkscape:window-y="85"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,48"
+       id="guide2988" />
+    <sodipodi:guide
+       position="48,0"
+       orientation="-48,0"
+       id="guide2990" />
+    <sodipodi:guide
+       position="48,48"
+       orientation="0,-48"
+       id="guide2992" />
+    <sodipodi:guide
+       position="0,48"
+       orientation="48,0"
+       id="guide2994" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3620">
     <rdf:RDF>
@@ -60,7 +77,7 @@
      transform="translate(-451.69643,-1052.5988)">
     <g
        id="g13566"
-       transform="matrix(1.012046,0,0,1.012046,-6.2201527,-12.681289)">
+       transform="matrix(0.34637023,0,0,0.34637023,297.00769,690.60109)">
       <path
          sodipodi:nodetypes="csccsssscccccscc"
          id="path3585"
@@ -84,7 +101,7 @@
     </g>
     <g
        id="g12962"
-       transform="matrix(1.3145485,0,0,1.3145485,-165.66351,-354.12444)">
+       transform="matrix(0.44990096,0,0,0.44990096,242.4386,573.74302)">
       <path
          transform="matrix(0.2264337,0,0,0.2264337,497.0898,1095.8911)"
          d="m 231.16084,147.785 c 0,51.00406 -41.34697,92.35102 -92.35103,92.35102 -51.004056,0 -92.351016,-41.34696 -92.351016,-92.35102 0,-51.004057 41.34696,-92.351017 92.351016,-92.351017 51.00406,0 92.35103,41.34696 92.35103,92.351017 z"
