@@ -13,7 +13,7 @@
    height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="calligrakexi.svg">
   <metadata
      id="metadata18">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-width="630"
+     inkscape:window-height="604"
      id="namedview16"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -45,9 +45,9 @@
      inkscape:zoom="6.9532164"
      inkscape:cx="31.208153"
      inkscape:cy="26.859433"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-x="1161"
+     inkscape:window-y="171"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
@@ -149,49 +149,51 @@
   <defs
      id="defs4" />
   <path
-     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
-     d="M 4 4 L 4 14 L 44 14 L 44 4 L 4 4 z M 8 6 L 12 6 L 12 12 L 8 12 L 8 6 z "
-     id="rect4092" />
+     style="fill:#34495e;fill-opacity:1;stroke:none"
+     d="M 4,4 4,14 44,14 44,4 4,4 z m 4,2 4,0 0,6 -4,0 0,-6 z"
+     id="rect4092"
+     inkscape:connector-curvature="0" />
   <path
      id="path4141"
      d="m 4,19 0,10 40,0 0,-10 -40,0 z m 4,2 4,0 0,6 -4,0 0,-6 z"
-     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     style="fill:#34495e;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     style="fill:#34495e;fill-opacity:1;stroke:none"
      d="m 4,34 0,10 40,0 0,-10 -40,0 z m 4,2 4,0 0,6 -4,0 0,-6 z"
      id="path4143" />
   <path
-     style="fill:#ecf0f1;fill-opacity:1;stroke:none"
-     d="M 37 4 L 37 14 L 44 14 L 44 4 L 37 4 z "
-     id="rect4149" />
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
+     d="m 37,4 0,10 7,0 0,-10 -7,0 z"
+     id="rect4149"
+     inkscape:connector-curvature="0" />
   <path
      id="path4154"
      d="m 37,19 0,10 7,0 0,-10 -7,0 z"
-     style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
      d="m 37,34 0,10 7,0 0,-10 -7,0 z"
      id="path4156" />
   <path
      id="path4158"
-     d="M 4,4 4,14 8,14 8,4 Z"
-     style="fill:#95a5a6;fill-opacity:1;stroke:none"
+     d="M 4,4 4,14 8,14 8,4 z"
+     style="fill:#c0392b;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#95a5a6;fill-opacity:1;stroke:none"
-     d="M 4,19 4,29 8,29 8,19 Z"
+     style="fill:#c0392b;fill-opacity:1;stroke:none"
+     d="M 4,19 4,29 8,29 8,19 z"
      id="path4160"
      sodipodi:nodetypes="ccccc" />
   <path
      id="path4162"
-     d="M 4,34 4,44 8,44 8,34 Z"
-     style="fill:#95a5a6;fill-opacity:1;stroke:none"
+     d="M 4,34 4,44 8,44 8,34 z"
+     style="fill:#c0392b;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
 </svg>
