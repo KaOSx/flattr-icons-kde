@@ -13,7 +13,7 @@
    height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="help-browser.svg">
   <metadata
      id="metadata12">
@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-width="617"
+     inkscape:window-height="530"
      id="namedview10"
      showgrid="false"
      inkscape:showpageshadow="false"
@@ -45,9 +45,9 @@
      inkscape:zoom="6.9532164"
      inkscape:cx="19.733401"
      inkscape:cy="27.620824"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-x="1053"
+     inkscape:window-y="193"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
@@ -85,7 +85,7 @@
   <defs
      id="defs4" />
   <rect
-     style="fill:#ecf0f1;fill-opacity:1;stroke:none"
+     style="fill:#bdc3c7;fill-opacity:1;stroke:none"
      id="rect4090"
      width="40"
      height="40"
