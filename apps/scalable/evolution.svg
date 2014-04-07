@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
-   sodipodi:docname="claws-mail.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="evolution.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.1825096"
-     inkscape:cx="6.2233653"
+     inkscape:cx="26.602443"
      inkscape:cy="26.280234"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,11 +34,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-width="719"
+     inkscape:window-height="605"
+     inkscape:window-x="1071"
+     inkscape:window-y="213"
+     inkscape:window-maximized="0"
      borderlayer="true"
      inkscape:showpageshadow="false">
     <sodipodi:guide
@@ -100,7 +100,7 @@
      id="layer1"
      transform="translate(-180.23661,-689.8125)">
     <rect
-       style="fill:#f5fbfe;fill-opacity:1;stroke:none"
+       style="fill:#c0392b;fill-opacity:1;stroke:none"
        id="rect4074"
        width="44"
        height="40"
@@ -111,23 +111,27 @@
       <path
          id="path4254"
          transform="translate(180.23661,689.8125)"
-         d="M 17.25 24.5 L 2 39.75 L 2 44 L 46 44 L 46 39.75 L 30.75 24.5 L 24 31.25 L 17.25 24.5 z "
-         style="fill:#bfccd7;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         d="M 17.25,24.5 2,39.75 2,44 46,44 46,39.75 30.75,24.5 24,31.25 17.25,24.5 z"
+         style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
       <path
          id="path4251"
          transform="translate(180.23661,689.8125)"
-         d="M 2 4 L 2 9.5 L 24 31.5 L 46 9.5 L 46 4 L 2 4 z "
-         style="fill:#bfccd7;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         d="M 2,4 2,9.5 24,31.5 46,9.5 46,4 2,4 z"
+         style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
       <path
          id="path4238"
          transform="translate(180.23661,689.8125)"
-         d="M 17.75 25.25 L 2 41 L 2 44 L 46 44 L 46 41 L 30.25 25.25 L 24 31.5 L 17.75 25.25 z "
-         style="fill:#f5fbfe;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         d="M 17.75,25.25 2,41 2,44 46,44 46,41 30.25,25.25 24,31.5 17.75,25.25 z"
+         style="fill:#c0392b;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
       <path
          id="path4219"
          transform="translate(180.23661,689.8125)"
-         d="M 2 4 L 2 7 L 24 29 L 46 7 L 46 4 L 2 4 z "
-         style="fill:#f5fbfe;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         d="M 2,4 2,7 24,29 46,7 46,4 2,4 z"
+         style="fill:#c0392b;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
