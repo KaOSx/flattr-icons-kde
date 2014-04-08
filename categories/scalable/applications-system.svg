@@ -34,60 +34,6 @@
      inkscape:window-y="161"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
-  <defs
-     id="defs4">
-    <filter
-       id="filter3340"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3342"
-         stdDeviation="3.959091" />
-    </filter>
-    <filter
-       id="filter3390"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur3392"
-         stdDeviation="10.093933" />
-    </filter>
-    <linearGradient
-       id="linearGradient2254">
-      <stop
-         stop-color="#bedcdc"
-         id="stop2256"
-         offset="0" />
-      <stop
-         stop-color="#8e9e9e"
-         stop-opacity="0.741497"
-         offset="0.5"
-         id="stop2264" />
-      <stop
-         stop-color="#404f5c"
-         stop-opacity="0.839216"
-         id="stop2258"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       r="148.85715"
-       fy="389.50504"
-       fx="380"
-       cy="389.50504"
-       cx="380"
-       gradientTransform="matrix(-0.1055661,-0.930902,0.9936313,-0.1126799,-134.69275,638.06628)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient2340"
-       xlink:href="#linearGradient2254" />
-    <radialGradient
-       r="148.85715"
-       fy="389.50504"
-       fx="380"
-       cy="389.50504"
-       cx="380"
-       gradientTransform="matrix(0.08685949,-0.5807721,0.62210423,0.09357629,81.335815,598.42261)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3406"
-       xlink:href="#linearGradient2254" />
-  </defs>
   <metadata
      id="metadata7">image/svg+xml<rdf:RDF>
   <cc:Work
