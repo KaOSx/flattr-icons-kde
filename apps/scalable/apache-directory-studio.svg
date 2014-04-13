@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="dbeaver.svg">
+   sodipodi:docname="apache-directory-studio.svg">
   <metadata
      id="metadata60">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,10 +41,10 @@
      id="namedview58"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="3.2045864"
-     inkscape:cy="28.082233"
-     inkscape:window-x="1364"
-     inkscape:window-y="1241"
+     inkscape:cx="-34.422532"
+     inkscape:cy="28.183928"
+     inkscape:window-x="3131"
+     inkscape:window-y="1234"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
@@ -70,7 +70,7 @@
        x2="0" />
   </defs>
   <rect
-     style="fill:#000080"
+     style="fill:#2980b9;fill-opacity:1"
      id="rect3087"
      width="10.676611"
      height="10.676611"
