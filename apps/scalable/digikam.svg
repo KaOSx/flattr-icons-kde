@@ -13,7 +13,7 @@
    height="38.4pt"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="digikam.svg">
   <metadata
      id="metadata13">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,18 +36,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-width="1027"
+     inkscape:window-height="617"
      id="namedview11"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:zoom="4.9166665"
-     inkscape:cx="6.8042476"
-     inkscape:cy="28.323641"
-     inkscape:window-x="-2"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="7.4144169"
+     inkscape:cy="28.32364"
+     inkscape:window-x="751"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <sodipodi:guide
        position="9.5367432e-07,48.000001"
@@ -85,7 +85,7 @@
   <defs
      id="defs4" />
   <rect
-     style="fill:#ecf0f1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#bdc3c7;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3427"
      width="40"
      height="40"
@@ -115,9 +115,9 @@
      height="20"
      width="20"
      id="rect3433"
-     style="fill:#103151;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#2980b9;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <rect
-     style="fill:#202332;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#2c3e50;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3435"
      width="13.333336"
      height="13.333336"
@@ -131,9 +131,9 @@
      height="6.6666679"
      width="6.6666679"
      id="rect3437"
-     style="fill:#8ea6bb;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#bdc3c7;fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <rect
-     style="fill:#8ea6bb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#bdc3c7;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="rect3439"
      width="3.333334"
      height="3.333334"
