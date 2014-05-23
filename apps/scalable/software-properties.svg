@@ -13,7 +13,7 @@
    inkscape:version="0.48.4 r9939"
    width="48"
    height="48"
-   sodipodi:docname="Add_Remove_Programs_Icon.svg">
+   sodipodi:docname="preferences-desktop-default-applications.svg">
   <defs
      id="defs49" />
   <sodipodi:namedview
@@ -42,20 +42,15 @@
     <g
        id="g18040">
       <path
-         id="path5835"
-         d="m 476.54,381.73 3.25,19.5 27.25,18.875 -5.1464,-16.905 z"
-         inkscape:connector-curvature="0"
-         style="fill:#2c3e50" />
-      <path
          id="path4190"
          d="m 330.73,596.28 25.762,20.808 V 431.798 L 330.73,410.99 v 185.29"
          inkscape:connector-curvature="0"
-         style="fill:#f39c12" />
+         style="fill:#34495e" />
       <path
          id="path3925"
          d="m 356.48,431.78 145.66,-29.523 v 185.29 L 356.48,617.07 z"
          inkscape:connector-curvature="0"
-         style="fill:#f39c12;fill-rule:evenodd" />
+         style="fill:#34495e;fill-rule:evenodd" />
       <g
          id="g3760"
          transform="matrix(1.1189,0.16156,0,1.1189,-63.473,-142)">
@@ -188,12 +183,7 @@
          id="path4184"
          d="m 330.64,410.99 25.762,20.808 145.66,-29.523 L 476.3,381.467 330.64,410.99"
          inkscape:connector-curvature="0"
-         style="fill:#f39c12" />
-      <path
-         id="path5833"
-         d="m 331,410.36 -6.5,22.5 17.5,15 14.354,-16.03 z"
-         inkscape:connector-curvature="0"
-         style="fill:#f39c12" />
+         style="fill:#34495e" />
       <g
          id="g18020">
         <path
